@@ -3,6 +3,25 @@
 
 This project provides a frontend dashboard for managing product transactions. It utilizes the backend APIs created for fetching transaction data, statistics, and bar chart information.
 
+# Frontend Link
+https://roxiler-assignment-frontend-eight.vercel.app/
+
+# Backend Link
+https://roxiler-assignment-backend-aq9d.onrender.com
+
+
+## Screenshots
+
+![Search and dropdown](https://i.postimg.cc/gjp18Yhg/1.jpg)
+
+![Items in Table Format](https://i.postimg.cc/kXnk5gq4/2.jpg)
+
+![Pagination and Page per view](https://i.postimg.cc/kGyzykFq/3.jpg)
+
+![Statistics](https://i.postimg.cc/mZ3vRHxJ/4.jpg)
+
+![Bar Chart and Pie Chart](https://i.postimg.cc/rFQ7R2w9/5.jpg)
+
 
 ## Features
 
@@ -50,19 +69,6 @@ This project provides a frontend dashboard for managing product transactions. It
 - `vite`: ^5.2.0
 
 
-## Screenshots
-
-![Search and dropdown](https://i.postimg.cc/gjp18Yhg/1.jpg)
-
-![Items in Table Format](https://i.postimg.cc/kXnk5gq4/2.jpg)
-
-![Pagination and Page per view](https://i.postimg.cc/kGyzykFq/3.jpg)
-
-![Statistics](https://i.postimg.cc/mZ3vRHxJ/4.jpg)
-
-![Bar Chart and Pie Chart](https://i.postimg.cc/rFQ7R2w9/5.jpg)
-
-
 ## Tech Stack
 
 **Client:** React, TailwindCSS
@@ -78,9 +84,4 @@ Install dependencies
   npm install
 ```
 
-Start the server
-
-```bash
-  npm run start
-```
 
